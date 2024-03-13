@@ -1,4 +1,4 @@
-// Programa que pide un usuario y contraseña y calcula el total de una pequeña tienda 
+// Programa que pide un usuario y contraseña 
 
 
 // Valida usuario y contraseña
